@@ -6,7 +6,7 @@ echo "
 
 Copyright (c) 2022 Itz-fork
 
---> Join @NexaBotsUpdates
---> Follow Itz-fork on Github
+--> Join @letswatchitnow
+--> Follow us on Telegram
 "
 python3 -m unzipper
