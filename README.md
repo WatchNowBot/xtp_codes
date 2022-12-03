@@ -104,12 +104,8 @@ If you found a bug in this bot please open an [issue](https://github.com/Itz-for
 
 
 ## Support 💙
-<a href="https://t.me/NexaBotsUpdates">
-  <img src="https://img.shields.io/badge/Updates_Channel-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://t.me/Nexa_bots">
-  <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+<a href="https://t.me/letswatchitnow">
+ 
 
 </br>
 
