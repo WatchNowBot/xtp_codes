@@ -9,9 +9,9 @@
         "unarchive bot",
         "extractor bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Unzipper-Bot",
-    "success_url": "https://t.me/NexaBotsUpdates",
+    "website": "https://t.me/letswatchitnow",
+    "repository": "https://t.me/letswatchitnow",
+    "success_url": "https://t.me/letswatchitnow",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
