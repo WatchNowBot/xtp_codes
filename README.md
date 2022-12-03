@@ -60,8 +60,8 @@ Also don't forget to check [changelog](CHANGELOG.md) 😉
 ## Deploy 👀
 Deploying is easy 🤫! You can deploy this bot in Heroku or in a linux VPS ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
-### With Heroku
-<a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot/tree/arch">
+### With Railway
+<a href="https://railway.app/new/template/o8-HMc?referralCode=j_gvOH">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
